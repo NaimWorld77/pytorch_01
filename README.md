@@ -1,0 +1,1 @@
+# In this file I tried to practise some of very basic programming for pytorch. Basically how to make a tensor, how to do tensor operation and so on. if you have a look this file i hope you will get to know some important pytorch basics.
